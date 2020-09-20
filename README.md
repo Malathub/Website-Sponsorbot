@@ -1,4 +1,4 @@
-Système crée par Mala, template dashboard par Notavone (https://github.com/Notavone/discord-panel)
+Système crée par Mala#0045 donc moi-même négro ;), template dashboard par Notavone (https://github.com/Notavone/discord-panel)
 
 Étape 1:
 Lancer le site (need php)
