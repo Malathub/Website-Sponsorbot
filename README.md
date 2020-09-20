@@ -6,6 +6,8 @@ Lancer le site (need php)
 Étape 2:
 c bon mec
 
+![Test Image 2](“Sans titre.png”)
+
 --------------------------------------------------------
 
 Barrière anti-matrixé
