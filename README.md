@@ -6,12 +6,7 @@ Lancer le site (need php)
 Étape 2:
 c bon mec
 
-<img
-src=“https://i.ibb.co/xgJm58W/Sans-titre.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+<img src="./Sans titre.png">
 --------------------------------------------------------
 
 Barrière anti-matrixé
