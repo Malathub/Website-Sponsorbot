@@ -6,7 +6,7 @@ Lancer le site (need php)
 Étape 2:
 c bon mec
 
-![Test Image 2](“Sans titre.png”)
+<img src=“https://i.ibb.co/xgJm58W/Sans-titre.png”>
 
 --------------------------------------------------------
 
